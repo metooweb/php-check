@@ -4,7 +4,7 @@
 			"mitu\\check\\" : "src"
 		}
 	},
-	"name" : "php-check/php-check",
+	"name" : "metooweb/check",
 	"type" : "library",
 	"require" : {
 		"php" : ">=7.1"
